@@ -9,7 +9,6 @@
 5. support players going upstairs and downstairs
     
 ## How to play with it
-
 <br>if you run the code without inputting string, the game will assume you want to use UI, by clicking "new game", "load game" and  "quit" to go to next step. 
 
 <br>At the beginning of game, there will be two players. Player 1 is controlled by up, down, left, right button on the keyboard. Player2 is controlled by "A", "S", "D" and "W". They can choose to go upstairs and down stairs.
